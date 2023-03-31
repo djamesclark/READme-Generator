@@ -19,6 +19,7 @@
 ## Usage
   To use, the user just needs to enter "node index.js" into the terminal, then follow the prompts as they appear.
 
+https://drive.google.com/file/d/1HBiy0B1HSqWG-AIei6b5WALspRXSRCFN/view
 
 
 ## Contributing
